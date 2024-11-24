@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "LoopSR: Looping Sim-and-Real for Lifelong Policy Adaptation of Legged Robots"
-date:   2025-01-31,
+date:   2024-09-15,
 image: /images/LoopSR.png
 categories: research
-author: "Peilin Wu"
 authors: "<strong>Peilin Wu</strong>, Weiji Xie, Jiahang Cao, Hang Lai, Weinan Zhang"
 venue: "Submitted to ICRA, 2025"
-arxiv: https://arxiv.org/pdf/2409.17992
+paper: https://arxiv.org/pdf/2409.17992
 code: https://github.com/tinnerhrhe/HIB_Policy
 website: https://sites.google.com/view/history-ib
 ---
