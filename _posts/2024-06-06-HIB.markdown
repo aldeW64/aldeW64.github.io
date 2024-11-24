@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Bridging the Sim-to-Real Gap from the Information Bottleneck Perspective"
+date:   2022-07-21 22:21:59 +00:00
+image: /images/fuzzy22.png
+categories: research
+# author: "Leo Keselman"
+authors: "Haoran He, Peilin Wu, Chenjia Bai, Hang Lai, Lingxiao Wang, Ling Pan, Xiaolin Hu, Weinan Zhang"
+venue: "Conference on Robot Leaning (Oral), 2024"
+arxiv: https://arxiv.org/abs/2207.10606
+code: https://github.com/leonidk/fuzzy-metaballs
+website: https://leonidk.github.io/fuzzy-metaballs/
+youtube: https://www.youtube.com/watch?v=Ec7cxEc9eOU
+---
