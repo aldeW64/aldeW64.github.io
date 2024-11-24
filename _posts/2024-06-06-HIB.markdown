@@ -5,7 +5,7 @@ date:   2024-06-06,
 image: /images/HIB.png
 categories: research
 author: "Peilin Wu"
-authors: "Haoran He, <strong>Peilin Wu<strong>, Chenjia Bai, Hang Lai, Lingxiao Wang, Ling Pan, Xiaolin Hu, Weinan Zhang"
+authors: "Haoran He, <strong>Peilin Wu</strong>, Chenjia Bai, Hang Lai, Lingxiao Wang, Ling Pan, Xiaolin Hu, Weinan Zhang"
 venue: "Conference on Robot Leaning (Oral)"
 arxiv: https://openreview.net/forum?id=Bq4XOaU4sV
 code: https://github.com/tinnerhrhe/HIB_Policy
