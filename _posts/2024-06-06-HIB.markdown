@@ -2,7 +2,7 @@
 layout: post
 title:  "Bridging the Sim-to-Real Gap from the Information Bottleneck Perspective"
 date:   2024-06-06,
-image: /images/HIB.png
+image: images/HIB.png
 categories: research
 authors: "Haoran He, <strong>Peilin Wu<strong>, Chenjia Bai, Hang Lai, Lingxiao Wang, Ling Pan, Xiaolin Hu, Weinan Zhang"
 venue: "Conference on Robot Leaning (Oral)"
