@@ -7,7 +7,8 @@ categories: research
 authors: "<strong>Peilin Wu</strong>, Weiji Xie, Jiahang Cao, Hang Lai, Weinan Zhang"
 venue: "Submitted to ICRA, 2025"
 paper: https://arxiv.org/pdf/2409.17992
-code: https://github.com/tinnerhrhe/HIB_Policy
-website: https://sites.google.com/view/history-ib
+youtube: https://youtu.be/3G5gIG7pWpg
+# code: https://github.com/tinnerhrhe/HIB_Policy
+# website: https://sites.google.com/view/history-ib
 ---
 <!-- We propose a lifelong policy adaptation framework named LoopSR, which utilizes a transformerbased encoder to project real-world trajectories into a latent space, and accordingly reconstruct the real-world environments back in simulation for further improvement. By leveraging the continual training, LoopSR achieves superior data efficiency compared with strong baselines, with only a limited amount of data to yield eminent performance in both sim-to-sim and sim-to-real experiments. -->
