@@ -1,0 +1,17 @@
+---
+layout: post
+# title:  reviewer
+# date:   2024-09-15,
+# image: /images/LoopSR.png
+categories: service
+type: reviewer
+conference: ICRA
+# authors: "<strong>Peilin Wu</strong>, Weiji Xie, Jiahang Cao, Hang Lai, Weinan Zhang"
+# venue: "Submitted to ICRA, 2025"
+# paper: https://arxiv.org/pdf/2409.17992
+# youtube: https://youtu.be/3G5gIG7pWpg
+# code: https://github.com/tinnerhrhe/HIB_Policy
+# website: https://peilinwu.site/looping-sim-and-real.github.io/
+---
+<!-- This project looked into the lifelong policy adaptation situation. The idea behind was that attention should be paid to leveraging real-world data to fine-tune the policy continuously. The work proposed a pipeline to loop simulated training and real-world data collection, with only a limited amount of data to yield eminent performance in both sim-to-sim and sim-to-real experiments.  -->
+<!-- We propose a lifelong policy adaptation framework named LoopSR, which utilizes a transformerbased encoder to project real-world trajectories into a latent space, and accordingly reconstruct the real-world environments back in simulation for further improvement. By leveraging the continual training, LoopSR achieves superior data efficiency compared with strong baselines, with only a limited amount of data to yield eminent performance in both sim-to-sim and sim-to-real experiments. -->
