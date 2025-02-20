@@ -5,7 +5,7 @@ date:   2024-09-15,
 image: /images/LoopSR.png
 categories: research
 authors: "<strong>Peilin Wu</strong>, Weiji Xie, Jiahang Cao, Hang Lai, Weinan Zhang"
-venue: "Submitted to ICRA, 2025"
+venue: "Preprint"
 paper: https://arxiv.org/pdf/2409.17992
 youtube: https://youtu.be/3G5gIG7pWpg
 # code: https://github.com/tinnerhrhe/HIB_Policy
