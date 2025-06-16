@@ -5,7 +5,7 @@ date:   2025-03-01,
 image: /images/LoopSR.png
 categories: research
 authors: "<strong>Peilin Wu</strong>, Weiji Xie, Jiahang Cao, Hang Lai, Weinan Zhang"
-venue: "IROS"
+venue: "IROS, 2025"
 paper: https://arxiv.org/pdf/2409.17992
 youtube: https://youtu.be/3G5gIG7pWpg
 # code: https://github.com/tinnerhrhe/HIB_Policy
