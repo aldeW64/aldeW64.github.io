@@ -5,11 +5,7 @@
 // IMPORTS
 //
 
-//@importstrong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 17px;
-  font-display: auto;
-}et";
+//@import "reset";
 //@import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
@@ -46,7 +42,7 @@ strong {
 
 h2 {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-size: 26px;
   font-display: auto;
   font-weight: normal;
   padding: 0px;
@@ -66,7 +62,7 @@ h3 {
 
 h1 {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-size: 36px;
   font-weight: normal;
   font-display: auto;
   text-align: center;
