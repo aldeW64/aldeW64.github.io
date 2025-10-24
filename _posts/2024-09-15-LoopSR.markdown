@@ -8,7 +8,7 @@ authors: "<strong>Peilin Wu</strong>, Weiji Xie, Jiahang Cao, Hang Lai, Weinan Z
 venue: "IROS, 2025"
 paper: https://arxiv.org/pdf/2409.17992
 youtube: https://youtu.be/3G5gIG7pWpg
-# code: https://github.com/tinnerhrhe/HIB_Policy
+code: https://github.com/aldeW64/LoopSR
 website: https://peilinwu.site/looping-sim-and-real.github.io/
 ---
 This project looked into the lifelong policy adaptation situation. The idea behind was that attention should be paid to leveraging real-world data to fine-tune the policy continuously. The work proposed a pipeline to loop simulated training and real-world data collection, with only a limited amount of data to yield eminent performance in both sim-to-sim and sim-to-real experiments. 
