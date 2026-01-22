@@ -6,7 +6,7 @@ image: /images/4DWM.png
 categories: research
 authors: "Zhiyi Li, <strong>Peilin Wu<sup>*</sup></strong>, Xiaoshen Han<sup>*</sup>, Ruojin Cai, Yilun Du"
 venue: "Under Review"
-# paper: https://arxiv.org/pdf/2409.17992
+paper: https://peilinwu.site/
 # youtube: https://youtu.be/3G5gIG7pWpg
 # code: https://github.com/aldeW64/LoopSR
 # website: https://peilinwu.site/looping-sim-and-real.github.io/
