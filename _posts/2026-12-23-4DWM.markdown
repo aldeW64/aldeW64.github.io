@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "4D Latent World Model for Robot Planning"
-date:   2026-10-01,
+title:  "Structured 4D Latent World Model for Robot Planning"
+date:   2025-10-01,
 image: /images/4DWM.png
 categories: research
 authors: "Zhiyi Li, <strong>Peilin Wu<sup>*</sup></strong>, Xiaoshen Han<sup>*</sup>, Ruojin Cai, Yilun Du"
-venue: "Under Review"
-paper: https://peilinwu.site/
+venue: "ICML 2026"
+paper: https://openreview.net/pdf?id=aXAgpGfHGc
 # youtube: https://youtu.be/3G5gIG7pWpg
 # code: https://github.com/aldeW64/LoopSR
 # website: https://peilinwu.site/looping-sim-and-real.github.io/
