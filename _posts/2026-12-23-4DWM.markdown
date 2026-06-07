@@ -9,7 +9,7 @@ venue: "ICML 2026"
 paper: https://openreview.net/pdf?id=aXAgpGfHGc
 # youtube: https://youtu.be/3G5gIG7pWpg
 # code: https://github.com/aldeW64/LoopSR
-# website: https://peilinwu.site/looping-sim-and-real.github.io/
+website: https://structured-4d-model.github.io/
 ---
 Learned world models in robotics often lack true 3D understanding because they rely on 2D video. This work introduces a 4D Latent World Model that predicts the evolution of 3D scenes in a sparse voxel latent space, conditioned on observations and text. The model can decode to rich 3D formats (e.g., Gaussian Splatting), enabling more complete and consistent scene understanding. Used as a planner with a goal-conditioned inverse dynamics model, it generates higher-quality, physically consistent, multi-view coherent futures and improves manipulation performance, generalization, and real-world deployment.
 
