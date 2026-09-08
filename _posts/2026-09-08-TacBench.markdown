@@ -6,7 +6,7 @@ image: /images/TacBench.png
 categories: research
 authors: "<strong>Peilin Wu</strong>, Zhiyi Li, Weihan Xu, Sam Gallaudet, Haonan Chen, Yilun Du"
 venue: "RSS Workshop on Tactile Sensing for Robotic Foundation Models, 2026"
-paper: https://openreview.net/forum?id=gCu1TvTLUm
+paper: https://openreview.net/forum?id=IfOmCqgroo
 website: https://peilinwu.site/tac-bench.github.io/
 ---
 Tac-Bench is a simulation benchmark for evaluating tactile manipulation and multimodal world models across 14 contact-rich tasks and three tactile sensor types. It compares three policy fusion architectures under controlled task, sensor, and data settings to measure the benefits of touch. Beyond visual fidelity, it evaluates whether imagined visuo-tactile futures support successful closed-loop execution and improve policy performance through model-predictive optimization.
